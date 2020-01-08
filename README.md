@@ -13,3 +13,6 @@ KELOMPOK 2
 
 -A3.1810009   RICKY RADIANSYAH
 
+![Screenshot (50)](https://user-images.githubusercontent.com/55777159/71964978-52abd280-3231-11ea-9fb4-d657365fb36a.png)
+
+
